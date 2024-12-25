@@ -647,8 +647,7 @@ header .header-col.mid .social-icons {
 
 #mainmenu>li.menu-item-has-children>a:after {
     content: "\f107";
-    font-family: 'Font Awesome\ 5 Free'; 
-    font-weight: 600; /* Fix version 5.0.9 */
+    font-family: "FontAwesome";
     font-style: normal;
     display: inline-block;
     position: absolute;
@@ -1407,8 +1406,7 @@ header.header-light .logo-2 {
 .topbar-widget:before {
     float: left;
     position: relative;
-    font-family: 'Font Awesome\ 5 Free'; 
-    font-weight: 600; /* Fix version 5.0.9 */
+    font-family: "FontAwesome";
     font-size: 16px;
     margin-right: 10px;
 }
@@ -2208,8 +2206,7 @@ input[type="checkbox"] {
 }
 
 .arrow-up:before {
-    font-family: 'Font Awesome\ 5 Free'; 
-    font-weight: 600; /* Fix version 5.0.9 */
+    font-family: "FontAwesome";
     font-size: 20px;
     content: "\f067";
     color: #222;
@@ -2219,8 +2216,7 @@ input[type="checkbox"] {
 }
 
 .arrow-down:before {
-    font-family: 'Font Awesome\ 5 Free'; 
-    font-weight: 600; /* Fix version 5.0.9 */
+    font-family: "FontAwesome";
     font-size: 20px;
     content: "\f068";
     color: #222;
@@ -2359,8 +2355,7 @@ address span strong {
 }
 
 .crumb li:after {
-    font-family: 'Font Awesome\ 5 Free'; 
-    font-weight: 600; /* Fix version 5.0.9 */
+    font-family: "FontAwesome";
     content: "\f054";
     font-size: 10px;
     margin: 0 10px 0 10px;
@@ -2594,8 +2589,7 @@ a.btn:before {
 }
 
 a.btn-fx:after {
-    font-family: 'Font Awesome\ 5 Free'; 
-    font-weight: 600; /* Fix version 5.0.9 */
+    font-family: "FontAwesome";
     content: "\f178";
     margin-left: 15px;
     position: absolute;
@@ -2648,8 +2642,7 @@ a.btn-line {
 
 .btn-line:after,
 a.btn-line:after {
-    font-family: 'Font Awesome\ 5 Free'; 
-    font-weight: 600; /* Fix version 5.0.9 */
+    font-family: "FontAwesome";
     content: "\f054";
     margin-left: 10px;
 }
@@ -2779,8 +2772,7 @@ a.btn-add_to_cart {
 
 .btn-add_to_cart:before,
 a.btn-add_to_cart:before {
-    font-family: 'Font Awesome\ 5 Free'; 
-    font-weight: 600; /* Fix version 5.0.9 */
+    font-family: "FontAwesome";
     content: "\f07a";
     position: absolute;
     left: 20px;
@@ -2925,8 +2917,7 @@ a.btn-link {
 }
 
 .play-button:before {
-    font-family: 'Font Awesome\ 5 Free'; 
-    font-weight: 600; /* Fix version 5.0.9 */
+    font-family: "FontAwesome";
     font-size: 20px;
     content: "\f04b";
     position: relative;
@@ -2966,8 +2957,7 @@ a.btn-link {
 }
 
 .text-light .play-button:before {
-    font-family: 'Font Awesome\ 5 Free'; 
-    font-weight: 600; /* Fix version 5.0.9 */
+    font-family: "FontAwesome";
     font-size: 20px;
     content: "\f04b";
     position: relative;
@@ -4526,8 +4516,7 @@ i.font60 {
 
 .ul-style-2 li:before,
 .ul-style-2 li:after {
-    font-family: 'Font Awesome\ 5 Free'; 
-    font-weight: 600; /* Fix version 5.0.9 */
+    font-family: "FontAwesome";
     content: "\f00c";
     margin-right: 15px;
     background: #111111;
@@ -5467,8 +5456,7 @@ footer .ul-style-2.s2 li:after{
 }
 
 .accordion-section-title:before {
-    font-family: 'Font Awesome\ 5 Free'; 
-    font-weight: 600; /* Fix version 5.0.9 */
+    font-family: "FontAwesome";
     content: "\f107";
     font-style: normal;
     float: right;
@@ -5486,8 +5474,7 @@ footer .ul-style-2.s2 li:after{
 }
 
 .accordion-section-title.active:before {
-    font-family: 'Font Awesome\ 5 Free'; 
-    font-weight: 600; /* Fix version 5.0.9 */
+    font-family: "FontAwesome";
     content: "\f106";
     font-style: normal;
 }
@@ -5556,8 +5543,7 @@ footer .ul-style-2.s2 li:after{
 }
 
 .expand-custom .toggle.clicked:before {
-    font-family: 'Font Awesome\ 5 Free'; 
-    font-weight: 600; /* Fix version 5.0.9 */
+    font-family: "FontAwesome";
     content: "\f106";
     font-style: normal;
 }
@@ -6373,8 +6359,7 @@ a.btn-right {
 }
 
 .de_testi blockquote:before {
-    font-family: 'Font Awesome\ 5 Free'; 
-    font-weight: 600; /* Fix version 5.0.9 */
+    font-family: "FontAwesome";
     content: "\f10d";
     padding-bottom: 10px;
     font-size: 20px;
@@ -6436,8 +6421,7 @@ a.btn-right {
 }
 
 .de_testi.opt-2 blockquote:before {
-    font-family: 'Font Awesome\ 5 Free'; 
-    font-weight: 600; /* Fix version 5.0.9 */
+    font-family: "FontAwesome";
     content: "\f10d";
     display: block;
     color: rgba(0, 0, 0, .1);
@@ -6551,8 +6535,7 @@ a.btn-right {
 }
 
 .testimonial-list:before {
-    font-family: 'Font Awesome\ 5 Free'; 
-    font-weight: 600; /* Fix version 5.0.9 */
+    font-family: "FontAwesome";
     content: "\f10d";
     font-size: 40px;
     color: rgba(0, 0, 0, .1);
@@ -7902,8 +7885,7 @@ blockquote.s2 {
 }
 
 blockquote.s2:before {
-    font-family: 'Font Awesome\ 5 Free'; 
-    font-weight: 600; /* Fix version 5.0.9 */
+    font-family: "FontAwesome";
     content: "\f10e";
     font-style: normal;
     position: absolute;
@@ -7915,8 +7897,7 @@ blockquote.s1 {
 }
 
 blockquote.s1:before {
-    font-family: 'Font Awesome\ 5 Free'; 
-    font-weight: 600; /* Fix version 5.0.9 */
+    font-family: "FontAwesome";
     content: "\f10d";
     display: block;
     color: rgba(0, 0, 0, .1);
@@ -8873,8 +8854,7 @@ margin:5px;
 }
 
 .widget_category li:before {
-    font-family: 'Font Awesome\ 5 Free'; 
-    font-weight: 600; /* Fix version 5.0.9 */
+    font-family: "FontAwesome";
     content: "\f07b";
     margin-right: 10px;
 }
@@ -10358,8 +10338,7 @@ section .color-overlay {
 }
 
 #services-list li.active a:after {
-    font-family: 'Font Awesome\ 5 Free'; 
-    font-weight: 600; /* Fix version 5.0.9 */
+    font-family: "FontAwesome";
     content: "\f054";
     float: right;
 }
@@ -10428,8 +10407,7 @@ section .color-overlay {
 .nav-prev:before,
 .nav-next:before,
 .nav-exit:before {
-    font-family: 'Font Awesome\ 5 Free'; 
-    font-weight: 600; /* Fix version 5.0.9 */
+    font-family: "FontAwesome";
     content: '\f177';
     color: #fff;
     padding: 20px;
@@ -10648,8 +10626,7 @@ section.no-padding {
 
 .owl-arrow .prev:before,
 .owl-arrow .next:before {
-    font-family: 'Font Awesome\ 5 Free'; 
-    font-weight: 600; /* Fix version 5.0.9 */
+    font-family: "FontAwesome";
     content: '\f177';
     color: #222222;
     padding: 20px;
@@ -10992,8 +10969,7 @@ section.bg-grey {
 }
 
 #back-to-top:before {
-    font-family: 'Font Awesome\ 5 Free'; 
-    font-weight: 600; /* Fix version 5.0.9 */
+    font-family: "FontAwesome";
     content: "\f106";
     font-style: normal;
     color: #ffffff;
@@ -11271,16 +11247,14 @@ a.read_more i {
 }
 
 .owl-custom-nav .btn-next:before {
-    font-family: 'Font Awesome\ 5 Free'; 
-    font-weight: 600; /* Fix version 5.0.9 */
+    font-family: "FontAwesome";
     content: "\f178";
     color: #fff;
     padding: 12px;
 }
 
 .owl-custom-nav .btn-prev:before {
-    font-family: 'Font Awesome\ 5 Free'; 
-    font-weight: 600; /* Fix version 5.0.9 */
+    font-family: "FontAwesome";
     content: "\f177";
     color: #fff;
     padding: 12px;
@@ -11296,8 +11270,7 @@ a.read_more i {
 }
 
 .fa-long-arrow-right:before {
-    font-family: 'Font Awesome\ 5 Free'; 
-    font-weight: 600; /* Fix version 5.0.9 */
+    font-family: "FontAwesome";
     content: "\f178";
 }
 
@@ -11358,8 +11331,7 @@ a.read_more i {
 }
 
 .owl-slider-nav .next:before {
-    font-family: 'Font Awesome\ 5 Free'; 
-    font-weight: 600; /* Fix version 5.0.9 */
+    font-family: "FontAwesome";
     font-size: 24px;
     content: "\f0da";
     color: #fff;
@@ -11369,8 +11341,7 @@ a.read_more i {
 }
 
 .owl-slider-nav .prev:before {
-    font-family: 'Font Awesome\ 5 Free'; 
-    font-weight: 600; /* Fix version 5.0.9 */
+    font-family: "FontAwesome";
     font-size: 24px;
     content: "\f0d9";
     color: #fff;
@@ -11804,8 +11775,7 @@ a.read_more i {
 
 .rtl .list.s1 li:after,
 .list.s1 li:before {
-    font-family: 'Font Awesome\ 5 Free'; 
-    font-weight: 600; /* Fix version 5.0.9 */
+    font-family: "FontAwesome";
     content: "\f00c";
     margin-right: 10px;
 }
@@ -12012,8 +11982,7 @@ a.read_more i {
     position: relative;
     display: inline-block;
     content: '\f00c';
-    font-family: 'Font Awesome\ 5 Free'; 
-    font-weight: 600; /* Fix version 5.0.9 */
+    font-family: "FontAwesome";
     top: -5px;
     opacity: 0;
     transform: scale(2);
@@ -12064,8 +12033,7 @@ a.read_more i {
     font-weight: normal;
     display: inline-block;
     content: '\f186';
-    font-family: 'Font Awesome\ 5 Free'; 
-    font-weight: 600; /* Fix version 5.0.9 */
+    font-family: "FontAwesome";
     font-size: 20px;
     padding: 3px;
     padding-top: 6px;
@@ -12273,8 +12241,7 @@ a.read_more i {
 }
 
 #btn-search:before {
-    font-family: 'Font Awesome\ 5 Free'; 
-    font-weight: 600; /* Fix version 5.0.9 */
+    font-family: "FontAwesome";
     content: "\f002";
     font-size: 24px;
     color: #111;
